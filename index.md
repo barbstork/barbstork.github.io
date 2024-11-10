@@ -5,10 +5,12 @@
 ### Writing Samples 
 
 [Administrator Guide](/WritingSample_LicenseServerRedundancy_Bstork.pdf)
+<br><br>
 <img src="/WSicon.png?raw=true" style="width:15%;height:15%;"/>
 
 ---
 [Online Help](/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf)
+<br><br>
 <img src="/WSicon.png?raw=true" style="width:15%;height:15%;"/>
 
 ---
