@@ -4,17 +4,17 @@
 
 ### Writing Samples 
 
-<b>[Administrator Guide](/WritingSample_LicenseServerRedundancy_Bstork.pdf)</b>
+<b><a href="/WritingSample_LicenseServerRedundancy_Bstork.pdf" target="_blank">Administrator Guide</a></b>
 <br>
-<a href="/WritingSample_LicenseServerRedundancy_Bstork.pdf">
-<img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
+<a href="/WritingSample_LicenseServerRedundancy_Bstork.pdf" target="_blank">
+    <img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
 </a>
 
 ---
-<b>[Online Help](/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf)</b>
+<b><a href="/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf" target="_blank">Online Help</a></b>
 <br>
-<a href="/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf">
-<img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
+<a href="/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf" target="_blank">
+    <img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
 </a>
 
 ---
