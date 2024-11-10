@@ -4,11 +4,11 @@
 
 ### Writing Samples 
 
-[Administrator Guide](/sample_page)
+[Administrator Guide](/WritingSample_LicenseServerRedundancy_Bstork.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Online Help](/pdf/sample_presentation.pdf)
+[Online Help](/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
