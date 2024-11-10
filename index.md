@@ -9,12 +9,14 @@
 <a href="/WritingSample_LicenseServerRedundancy_Bstork.pdf">
 <img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
 </a>
+
 ---
 [Online Help](/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf)
 <br><br>
 <a href="/WritingSample_LibraryPhraseDataSourceExample_Bstork.pdf">
 <img src="/WSicon.png?raw=true" style="width:25%;height:25%;"/>
 </a>
+
 ---
 
 <!--
